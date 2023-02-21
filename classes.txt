@@ -1,0 +1,13 @@
+taxis,vehicles
+bicycles
+tractors,vehicles
+stairs
+bus,buses,vehicles
+motorcycles,vehicles
+crosswalks
+fire hydrants,a fire hydrant
+cars,vehicles
+chimneys
+traffic lights
+parking meters
+bridges,bridge
