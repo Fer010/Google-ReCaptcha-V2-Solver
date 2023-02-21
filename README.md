@@ -6,7 +6,7 @@ This repository provides a way for you to solve the Google ReCaptcha V2 using Yo
 
 ## How to Use
 - Clone the repo into your local machine.
-- Download the finetuned yolov5 checkpoint from [Google Drive](https://drive.google.com/file/d/14rpkowFJhEmF7-U22yCXIsVC_O7-DVFt/view?usp=share_link).
+- Download the finetuned yolov5 checkpoint from [Google Drive](https://drive.google.com/file/d/1sPFpIFq5IU4I2BJbJq3KLKcxSifps6Y4/view?usp=share_link).
 - Install the dependices by running `pip install -r requirements.txt` in the terminal of the directory of the project.
 - Watch the tutorial on how to use the recaptcha solve on [Youtube](https://youtu.be/7_2hyMKQVkA)
 
