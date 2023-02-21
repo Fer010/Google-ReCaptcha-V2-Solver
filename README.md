@@ -13,7 +13,8 @@ This repository provides a way for you to solve the Google ReCaptcha V2 using Yo
 I have added an **example.py** file in the repo that use the model to solve the recaptcha on [Google ReCaptcha Demo](https://www.google.com/recaptcha/api2/demo).
 To run that you must first install:
 1. Google Chrome/[Google Chrome Beta](https://www.google.com/intl/en_pk/chrome/beta/) (recommended) 
-2. [ChromeDriver](https://chromedriver.chromium.org/downloads). Note: You must downlaod the chromedriver for the version of chrome/chrome beta you installed.<br>
+2. [ChromeDriver](https://chromedriver.chromium.org/downloads). Note: You must downlaod the chromedriver for the version of chrome/chrome beta you installed.
+
 You can now run the example.py file to see the bot in action after following all the steps on how to use.
 
 ## Dataset
