@@ -36,7 +36,7 @@ if not os.path.exists("./cropped_images"):
     os.mkdir("./cropped_images")
 
 #Calling the loading model function and passing it the path to our custom weights for yolo5
-model,recap_classes = load_model('./yolov5/runs/train/yolov5x_recaptcha/weights/best.pt')
+model,recap_classes = load_model('./Yolo_Finetuned_ReCaptcha.pt')
 
 
 #Now using selenium we intialize our driver with certain options
@@ -179,7 +179,7 @@ while(1):
                     for i in range(len(class_list[count])):
                         if class_list[count][i].find(captcha_class) != -1:
                             img.click()
-                            time.sleep(4)
+                            time.sleep(2)
                             break
                     count+=1
                 image_count+=1
