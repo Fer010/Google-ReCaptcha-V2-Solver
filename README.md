@@ -5,6 +5,7 @@
 This repository provides a way for you to solve the Google ReCaptcha V2 using Yolov5 Object Detection.
 
 ## How to Use
+- Install [Python](https://www.python.org/downloads/) (Tested on version 3.10.x)
 - Clone the repo into your local machine.
 - Download the finetuned yolov5 checkpoint from [Google Drive](https://drive.google.com/file/d/1sPFpIFq5IU4I2BJbJq3KLKcxSifps6Y4/view?usp=share_link).
 - Install the dependices by running `pip install -r requirements.txt` in the terminal of the directory of the project.
